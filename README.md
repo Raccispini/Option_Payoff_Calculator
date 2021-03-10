@@ -53,7 +53,11 @@
                                                                                                     
                                                                                                    
 
+
+
 <h2>Option Payoff Calculator</h2>
+Tools to calculate the Payoff of a Financial Option
+
 <br>
 <h3>How to use it</h3>
 * Arguments: 
